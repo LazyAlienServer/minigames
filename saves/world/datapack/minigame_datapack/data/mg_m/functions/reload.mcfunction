@@ -1,0 +1,32 @@
+place template mg_m:blocktown/blocktown 0 0 0
+setblock 100 31 136 yuushya:car_white_part_b[facing=east,pos=middle,waterlogged=false]
+setblock 66 34 66 minecraft:iron_bars[east=false,north=false,south=false,waterlogged=false,west=false]
+setblock 70 34 66 minecraft:iron_bars[east=false,north=false,south=false,waterlogged=false,west=false]
+setblock 99 31 137 minecraft:barrier
+setblock 99 30 137 minecraft:barrier
+setblock 100 30 137 minecraft:barrier
+setblock 100 31 137 minecraft:barrier
+setblock 101 31 137 minecraft:barrier
+setblock 101 30 137 minecraft:barrier
+setblock 102 31 137 minecraft:barrier
+setblock 102 30 137 minecraft:barrier
+setblock 103 30 137 minecraft:barrier
+setblock 104 30 137 minecraft:barrier
+setblock 104 30 136 minecraft:barrier
+setblock 104 30 135 minecraft:barrier
+setblock 103 30 135 minecraft:barrier
+setblock 102 30 135 minecraft:barrier
+setblock 102 31 135 minecraft:barrier
+setblock 102 30 135 minecraft:barrier
+setblock 101 30 135 minecraft:barrier
+setblock 101 31 135 minecraft:barrier
+setblock 100 31 135 minecraft:barrier
+setblock 100 30 135 minecraft:barrier
+setblock 99 31 135 minecraft:barrier
+setblock 99 30 135 minecraft:barrier
+setblock 99 30 136 minecraft:barrier
+setblock 99 31 136 minecraft:barrier
+setblock 101 31 136 minecraft:barrier
+setblock 102 31 136 minecraft:barrier
+#weather rain 1d
+#setblock 103 32 136 air
